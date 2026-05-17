@@ -18,4 +18,5 @@ const YTDLP  = 'C:/Users/_ton user_/AppData/Local/Microsoft/WinGet/Links/yt-dlp.
 const FFMPEG = 'C:/Users/_ton user_/AppData/Local/Microsoft/WinGet/Links/ffmpeg.exe';
 
 # fini
+dans le fichier du script creer un dossier /downloads puis a l'ineterieur du fichier /music !
 Usage: node script.js <url>
